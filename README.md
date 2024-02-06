@@ -74,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## `7/02/24`
 
 - context api implementation
-- reducer implementation
+- reducer implementation via context api
+- reducer implementation via redux, react-redux and redux-thunk
