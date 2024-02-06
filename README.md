@@ -71,6 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Steps
 
-## `6/02/24`
+## `7/02/24`
 
 - context api implementation
+- reducer implementation
