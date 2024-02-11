@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - context api implementation
 - reducer implementation via context api
 - reducer implementation via redux, react-redux and redux-thunk
+- implemented useCallback hook
