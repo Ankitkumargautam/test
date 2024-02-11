@@ -77,3 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - reducer implementation via context api
 - reducer implementation via redux, react-redux and redux-thunk
 - implemented useCallback hook
+- implemented useMemo hook with its difference wrt useCallback
